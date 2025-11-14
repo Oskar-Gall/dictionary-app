@@ -2,6 +2,8 @@
 
 Nowoczesna, responsywna aplikacja front-endowa typu "Słownik Angielski", która pobiera dane z darmowego API `dictionaryapi.dev`.
 
+GitHub Pages: https://oskar-gall.github.io/dictionary-app/
+
 ---
 
 ## 🚀 Funkcje
@@ -39,4 +41,5 @@ Nowoczesna, responsywna aplikacja front-endowa typu "Słownik Angielski", która
 Ten projekt nie wymaga żadnych kluczy API ani specjalnej konfiguracji.
 
 1.  Sklonuj repozytorium.
+
 2.  Otwórz plik `index.html` w swojej ulubionej przeglądarce.
